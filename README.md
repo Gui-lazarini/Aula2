@@ -1,6 +1,11 @@
 # Aula2
 
-Minha primeira vez mexendo no git
+Minha primeira vez mexendo no git. Um projeto de blog simples
+
+# Tecnologias utilizadas
+1. HTML;
+2. CSS;
+3. JS.
 
 # Instrucoes de uso:
 
